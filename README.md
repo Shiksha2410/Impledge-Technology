@@ -143,6 +143,10 @@ girlboymanwomen
 
 **Program Output**
 
-Sample output of the program:**LONGEST COMPOUND WORD IS: girlboymanwomen
-SECOND LONGEST COMPOUND WORD IS: boywomengirl
-TIME REQUIRED TO COMPLETE THE EXECUTION IS: 123 milliseconds**
+Sample output of the program:
+
+**LONGEST COMPOUND WORD IS: girlboymanwomen**
+
+**SECOND LONGEST COMPOUND WORD IS: boywomengirl**
+
+**TIME REQUIRED TO COMPLETE THE EXECUTION IS: 123 milliseconds**
