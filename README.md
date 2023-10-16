@@ -143,7 +143,6 @@ girlboymanwomen
 
 **Program Output**
 
-Sample output of the program:
 
 **LONGEST COMPOUND WORD IS: girlboymanwomen**
 
